@@ -1,7 +1,7 @@
-print "Base of triangle?\n"
+puts 'Base of triangle?'
 base = gets.to_i
 
-print "Height of triangle?\n"
+puts 'Height of triangle?'
 height = gets.to_i
 
 area_triangle = 0.5 * base * height
